@@ -16,7 +16,7 @@ turtle_list = []
 #score turtle
 score_turtle = turtle.Turtle()
 
-#countdown turtles
+#countdown turtle
 countdown_turtle = turtle.Turtle()
 
 #make turtle (properties == Ozellik)
